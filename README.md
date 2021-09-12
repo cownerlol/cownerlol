@@ -5,7 +5,7 @@
       src='https://github-readme-stats.vercel.app/api?username=cownerlol&show_icons=true'
       style='border-radius: 50%;'
       width='1920'
-      height='550'
+      height='200'
     />
   </div>
   
@@ -41,6 +41,6 @@
       src='https://github-readme-stats.vercel.app/api/top-langs/?username=cownerlol&theme=radical'
       style='border-radius: 50%;'
       width='1920'
-      height='350'
+      height='200'
     />
   
