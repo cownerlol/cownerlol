@@ -10,7 +10,7 @@
   </div>
   
   <h1>iKoner</h1>
-  <blockquote><strong>Hi, I am a person who is interested in programming, I am currently trying to learn JavaScript, possibly HTML and CSS.</strong></blockquote>
+  <blockquote><strong>Hi, I am a person who is interested in programming, I am currently trying to learn JavaScript, HTML and CSS.</strong></blockquote>
   
    <br />
  • 📚 Languages that I am learning:<br />
